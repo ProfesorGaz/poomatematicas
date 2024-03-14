@@ -4,7 +4,9 @@ public class Matematicas {
 
     public static void main(String[] args) {
         
-        System.out.println("este es un mensaje de prueba 8:41 am");
+        System.out.println("este es un primer de prueba 8:41 am");
+        
+         System.out.println("este es un segundo de prueba 8:42 am");
 
     }
 // REALIZAR UN PROGRAMA CON SW QUE PUEADA REALIZAR UNA DE LAS 9 FUNCIONES
