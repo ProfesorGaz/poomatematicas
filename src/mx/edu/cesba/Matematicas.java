@@ -3,6 +3,8 @@ package mx.edu.cesba;
 public class Matematicas {
 
     public static void main(String[] args) {
+        
+        System.out.println("este es un mensaje de prueba 8:41 am");
 
     }
 // REALIZAR UN PROGRAMA CON SW QUE PUEADA REALIZAR UNA DE LAS 9 FUNCIONES
